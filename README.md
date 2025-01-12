@@ -31,7 +31,7 @@ We would like to make sure you are fully aware of all of your data protection ri
 - The right to rectification – You have the right to request to correct any information you believe is inaccurate.
 
   ### A polyglot
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raz0229&hide=html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raz0229&hide=html&langs_count=20)](https://github.com/raz0229)
 
 - The right to erasure – You have the right to request removal of personal data, under certain conditions.
 
